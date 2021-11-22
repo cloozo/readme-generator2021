@@ -1,6 +1,6 @@
-# README GENERATOR
+# Readme Generator
   ## License :
-  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://shileds.io/)
+  [![License](https://img.shields.io/badge/License-MPL 2.0,MIT-blue.svg)](https://shileds.io/)
 ## Table of Contents
 - [Descriptions](#description)
 - [Installation](#installation)
@@ -10,17 +10,17 @@
 - [Additional Info](#additional-info)
 
 ## Description:
-When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions—this last part increases the likelihood that other developers will contribute to the success of the project.
+This readme generator present a series of questions from which the user needs to provide answers to generate the readme file
 ## Description:
-You can quickly and easily generate a README file by using a command-line application to generate one. This allows the project creator to devote more time working on the project.
+run npm.. node
 ## Usage:
-by using the NPM command line
+by using the command line via node
 ## License:
-MIT
+MPL 2.0,MIT
 ## Contribution:
-Any developer
+anyone can contribute
 ## Testing: 
-Node command line
+run the project in node
 ##  Contact Information:
 - github: [cloozo(https://github.com/cloozo)]
 - Email:[cloozo@yahoo.com(mailto: user@example.com)]
