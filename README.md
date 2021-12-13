@@ -15,6 +15,7 @@ This readme generator present a series of questions from which the user needs to
 run npm.. node
 ## Usage:
 by using the command line via node
+## WalkThrough Video
 [Walkthrough Video](readme-walkthrough.mp4)
 ## License:
 
