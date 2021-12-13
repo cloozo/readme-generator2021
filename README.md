@@ -16,7 +16,7 @@ run npm.. node
 ## Usage:
 by using the command line via node
 ## WalkThrough Video
-[Walkthrough Video](https://user-images.githubusercontent.com/84163696/145808670-80e4b0af-374d-4d44-8b87-8fb7240d0d80.mp4)
+[Walkthrough Video](readme-walkthrough.mp4)
 
 
 
