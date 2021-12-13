@@ -1,6 +1,6 @@
 # Readme Generator
   ## License :
-  [![License](https://img.shields.io/badge/License-MPL 2.0,MIT-blue.svg)](https://shileds.io/)
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Table of Contents
 - [Descriptions](#description)
 - [Installation](#installation)
